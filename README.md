@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rohit-kumar-ray-18a976265/" target="blank"><img align="center" src="https://raw.githubusercontent.com//github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-kumar ray/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-kumar-ray-18a976265/" target="blank"><img align="center" src="https://raw.githubusercontent.com//github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:/www.linkedin.com/in/rohit-kumarray/" height="30" width="40" /></a>
 
 
 

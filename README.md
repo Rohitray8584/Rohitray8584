@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning  Bachelor of computer application
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me : 📤 rayrohit004@gmail.com
-- 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: personality
 
